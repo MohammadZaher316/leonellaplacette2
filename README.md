@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, Welcome to my Github</h1>
-I'm a full-stack developer with a passion.
+I'm a senior full-stack web & mobile developer with a passion.
 <br />
 As a Fullstack Developer, I mostly work on web development, but also skilled in Design, Game development, etc.
 Also I work on Raspberry PI, PCB design, etc.
 <br />
 Here are the skills I'm specialized in the most:
 
-- React-Native,React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Next.JS,Zustand
+- React-Native,Flutter, React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Next.JS,Zustand
 - PHP, Laravel, Codeigniter
 - TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS
 - Vue, Vuex, Pinia, Vue-router, Vuetify, Nuxt
